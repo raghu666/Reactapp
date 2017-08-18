@@ -7,5 +7,4 @@ Click [here](https://github.com/raghu666/Reactapp.git) to download the .zip file
 > npm install
 > npm start
 ```
-Then 
-# To open the application in your browser, go to localhost:8080 
+Then to open the application in your browser, go to localhost:8080 
